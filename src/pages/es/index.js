@@ -9,9 +9,9 @@ function IndexPage() {
         margin: "50px auto",
       }}
     >
-      Hello World!
+      Hola Mundo!
       <br />
-      <Link to="/es/">Spanish</Link>
+      <Link to="/">English</Link>
     </div>
   )
 }
