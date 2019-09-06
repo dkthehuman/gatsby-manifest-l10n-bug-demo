@@ -20,6 +20,7 @@ module.exports = {
             start_url: "/es/",
             lang: "es",
             name: "Hola Mundo",
+            icon: "src/images/gatsby-icon-es.png",
           },
         ],
       },
